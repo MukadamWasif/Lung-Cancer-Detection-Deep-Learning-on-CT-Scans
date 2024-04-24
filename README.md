@@ -6,7 +6,7 @@ Why it Matters:
 
 Lung cancer stands as a leading cause of cancer-related deaths globally. Early detection is crucial for effective treatment and improved patient outcomes. This project addresses this critical need by harnessing deep learning techniques to enhance the accuracy and efficiency of lung cancer diagnosis.
 
-Our Approach:
+Approach:
 
 By utilizing Python's deep learning models, I've significantly improved accuracy, achieving an impressive 75.87% accuracy rate. This approach offers potential in revolutionizing lung cancer detection and diagnosis.
 
